@@ -1,4 +1,4 @@
-package threads.resourceaccess.interrupt;
+package threads.resourceaccess.interrupt.basic;
 
 import java.io.IOException;
 import java.io.InputStream;
